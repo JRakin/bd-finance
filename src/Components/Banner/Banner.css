@@ -1,0 +1,11 @@
+.btn-help {
+  padding: 8px 30px;
+  border-radius: 30px;
+  border-left: 12px solid #007bff;
+  border-right: 12px solid #007bff;
+}
+.extra-info {
+  color: #fff;
+  padding: 8px 12px;
+  border-radius: 8px;
+}

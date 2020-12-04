@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/src/Components/SignIn/firebase.config.js
 /.pnp
 .pnp.js
 
